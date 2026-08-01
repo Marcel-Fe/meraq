@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/meraq/_next/static/chunks/2x2cezkmdg7b4.js","/meraq/_next/static/chunks/35t4q64d2uck7.js","/meraq/_next/static/chunks/1-8s9_t85wwr4.js"],"default"]
-3:I[37457,["/meraq/_next/static/chunks/2x2cezkmdg7b4.js","/meraq/_next/static/chunks/35t4q64d2uck7.js","/meraq/_next/static/chunks/1-8s9_t85wwr4.js"],"default"]
+2:I[39756,["/meraq/_next/static/chunks/33nh7mxq_n6pr.js","/meraq/_next/static/chunks/1840795xrwl-9.js","/meraq/_next/static/chunks/1-8s9_t85wwr4.js"],"default"]
+3:I[37457,["/meraq/_next/static/chunks/33nh7mxq_n6pr.js","/meraq/_next/static/chunks/1840795xrwl-9.js","/meraq/_next/static/chunks/1-8s9_t85wwr4.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"aqbv3rf1DJxGsW3NZYAkb"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"x-X-2QdnRgFE9n0XWn_fq"}
