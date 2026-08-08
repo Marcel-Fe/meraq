@@ -1,3 +1,3 @@
-:HL["/meraq/_next/static/chunks/1r--m_amayakz.css","style"]
+:HL["/meraq/_next/static/chunks/2gkykzoenpiae.css","style"]
 :HL["/meraq/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"budget","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mepo-HyNryWSC-Tucohvi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"budget","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"l_mDSZov82jNQ8h45zW8e"}
